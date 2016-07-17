@@ -3,7 +3,7 @@ Hundreds of Slack emoji, many tech-related but some random, bizarre, and/or esse
 
 Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) to bulk upload.
 
-## And now, the emoji you've been waiting for <img src="http://anything.codes/slack-emojis-for-techies/bicepleft.png" width="20">:woman:<img src="http://anything.codes/slack-emojis-for-techies/bicepright.png" width="20">
+## And now, the emoji you've been waiting for <img src="http://anything.codes/slack-emojis-for-techies/emoji/bicepleft.png" width="20">:woman:<img src="http://anything.codes/slack-emojis-for-techies/emoji/bicepright.png" width="20">
 
 | Name | Emoji |
 |:-----:|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -25,5 +25,18 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | awwyas | <img src="http://anything.codes/slack-emojis-for-techies/emoji/awwyas.png" width="30"> |
 | awyeah | <img src="http://anything.codes/slack-emojis-for-techies/emoji/awyeah.gif" width="30"> |
 | bacon | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bacon.jpg" width="30"> |
+| bb8 | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bb8.png" width="30"> |
+| bbq | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bbq.png" width="30"> |
+| bee-animated | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bee-animated.gif" width="30"> |
+| behance | <img src="http://anything.codes/slack-emojis-for-techies/emoji/behance.png" width="30"> |
+| beyonce | <img src="http://anything.codes/slack-emojis-for-techies/emoji/beyonce.gif" width="30"> |
+| beyoncedance | <img src="http://anything.codes/slack-emojis-for-techies/emoji/beyoncedance.gif" width="30"> |
+| bicepleft | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bicepleft.png" width="30"> |
+| bicepright | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bicepright.png" width="30"> |
+| bigredbutton | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bigredbutton.png" width="30"> |
+| bmo | <img src="http://anything.codes/slack-emojis-for-techies/emoji/bmo.gif" width="30"> |
+| boom-animated | <img src="http://anything.codes/slack-emojis-for-techies/emoji/boom-animated.gif" width="30"> |
+| brb | <img src="http://anything.codes/slack-emojis-for-techies/emoji/brb.png" width="30"> |
+| businesscat | <img src="http://anything.codes/slack-emojis-for-techies/emoji/businesscat.gif" width="30"> |
 
 ... and many more that I need to add to this README! <img src="http://anything.codes/slack-emojis-for-techies/emoji/lolwut.png" width="20">
