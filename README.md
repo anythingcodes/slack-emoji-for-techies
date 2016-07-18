@@ -187,6 +187,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | wifi | <img src="http://anything.codes/slack-emojis-for-techies/emoji/wifi.png" width="30"> |
 | windows | <img src="http://anything.codes/slack-emojis-for-techies/emoji/windows.png" width="30"> |
 | wonderwoman | <img src="http://anything.codes/slack-emojis-for-techies/emoji/wonderwoman.png" width="30"> |
+| wonderwoman2 | <img src="http://anything.codes/slack-emojis-for-techies/emoji/wonderwoman2.jpg" width="30"> |
 | xbox | <img src="http://anything.codes/slack-emojis-for-techies/emoji/xbox.png" width="30"> |
 | xcode | <img src="http://anything.codes/slack-emojis-for-techies/emoji/xcode.png" width="30"> |
 | yas | <img src="http://anything.codes/slack-emojis-for-techies/emoji/yas.png" width="30"> |
