@@ -52,7 +52,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | dancercorgi | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancercorgi.gif" width="30"> |
 | dancergunterpenguin | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancergunterpenguin.gif" width="30"> |
 | dancerhammertime | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancerhammertime.gif" width="30"> |
-| dancerman | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancerman.gif" width="30"> |
+| dancerman | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancerman.gif" height="25"> |
 | dancermegaman | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancermegaman.gif" width="30"> |
 | dancerpickle | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancerpickle.gif" width="30"> |
 | dancerpusheen | <img src="http://anything.codes/slack-emojis-for-techies/emoji/dancerpusheen.gif" width="30"> |
@@ -110,7 +110,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | lol | <img src="http://anything.codes/slack-emojis-for-techies/emoji/lol.png" width="30"> |
 | lolwut | <img src="http://anything.codes/slack-emojis-for-techies/emoji/lolwut.png" width="30"> |
 | luigi | <img src="http://anything.codes/slack-emojis-for-techies/emoji/luigi.png" width="30"> |
-| mac-finder | <img src="http://anything.codes/slack-emojis-for-techies/emoji/mac-finder.jfif" width="30"> |
+| mac-finder | <img src="http://anything.codes/slack-emojis-for-techies/emoji/mac-finder.gif" width="30"> |
 | mac-pinwheel | <img src="http://anything.codes/slack-emojis-for-techies/emoji/mac-pinwheel.gif" width="30"> |
 | mario | <img src="http://anything.codes/slack-emojis-for-techies/emoji/mario.png" width="30"> |
 | mbta | <img src="http://anything.codes/slack-emojis-for-techies/emoji/mbta.png" width="30"> |
@@ -157,7 +157,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | reactjs | <img src="http://anything.codes/slack-emojis-for-techies/emoji/reactjs.png" width="30"> |
 | rockcat | <img src="http://anything.codes/slack-emojis-for-techies/emoji/rockcat.gif" width="30"> |
 | rosie | <img src="http://anything.codes/slack-emojis-for-techies/emoji/rosie.png" width="30"> |
-| ruby | <img src="http://anything.codes/slack-emojis-for-techies/emoji/ruby.jfif" width="30"> |
+| ruby | <img src="http://anything.codes/slack-emojis-for-techies/emoji/ruby.gif" width="30"> |
 | sadpanda | <img src="http://anything.codes/slack-emojis-for-techies/emoji/sadpanda.png" width="30"> |
 | salesforce | <img src="http://anything.codes/slack-emojis-for-techies/emoji/salesforce.png" width="30"> |
 | science | <img src="http://anything.codes/slack-emojis-for-techies/emoji/science.gif" width="30"> |
