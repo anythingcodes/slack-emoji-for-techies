@@ -1,5 +1,5 @@
 # Slack Emoji for Techies
-Hundreds of Slack emoji, many tech-related but some random, bizarre, and/or essential. 
+Hundreds of Slack emoji, many tech-related. 
 Originally made for a Boston [Girl Develop It](http://girldevelopit.com) Slack team.
 
 Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) to bulk upload.
