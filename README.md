@@ -1,8 +1,10 @@
 # Slack Emoji for Techies
-Hundreds of Slack emoji, many tech-related. 
+Hundreds of Slack emoji, many tech-related.
 Originally made for a Boston [Girl Develop It](http://girldevelopit.com) Slack team.
 
-Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) to bulk upload.
+## How to Bulk Upload
+
+Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) to bulk upload. Using the command line? Try the [emojipacks CLI tool](https://github.com/lambtron/emojipacks). 
 
 ## And now, the emoji you've been waiting for <img src="http://anything.codes/slack-emoji-for-techies/emoji/bicepleft.png" width="20">:woman:<img src="http://anything.codes/slack-emoji-for-techies/emoji/bicepright.png" width="20">
 
