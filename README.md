@@ -46,7 +46,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | chrome | <img src="http://anything.codes/slack-emoji-for-techies/emoji/chrome.png" width="30"> |
 | click | <img src="http://anything.codes/slack-emoji-for-techies/emoji/click.png" width="30"> |
 | corgis | <img src="http://anything.codes/slack-emoji-for-techies/emoji/corgis.png" width="30"> |
-| css3 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/css3.jpg" width="30"> |
+| css3 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/css3.png" width="30"> |
 | cupcake | <img src="http://anything.codes/slack-emoji-for-techies/emoji/cupcake.jpg" width="30"> |
 | d3 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/d3.png" width="30"> |
 | dancerbaby | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerbaby.gif" width="30"> |
