@@ -4,7 +4,7 @@ Originally made for a Boston [Girl Develop It](http://girldevelopit.com) Slack t
 
 ## How to Bulk Upload
 
-Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) to bulk upload. Using the command line? Try the [emojipacks CLI tool](https://github.com/lambtron/emojipacks). 
+Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) to bulk upload. Using the command line? Try the [emojipacks CLI tool](https://github.com/lambtron/emojipacks).
 
 ## And now, the emoji you've been waiting for <img src="http://anything.codes/slack-emoji-for-techies/emoji/bicepleft.png" width="20">:woman:<img src="http://anything.codes/slack-emoji-for-techies/emoji/bicepright.png" width="20">
 
@@ -82,6 +82,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | flip | <img src="http://anything.codes/slack-emoji-for-techies/emoji/flip.gif" width="30"> |
 | fonzie | <img src="http://anything.codes/slack-emoji-for-techies/emoji/fonzie.png" width="30"> |
 | fry | <img src="http://anything.codes/slack-emoji-for-techies/emoji/fry.png" width="30"> |
+| gdi | <img src="http://anything.codes/slack-emoji-for-techies/emoji/gdi.gif" width="30"> |
 | generalassembly | <img src="http://anything.codes/slack-emoji-for-techies/emoji/generalassembly.jpg" width="30"> |
 | ghostbusters | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ghostbusters.png" width="30"> |
 | github | <img src="http://anything.codes/slack-emoji-for-techies/emoji/github.png" width="30"> |
