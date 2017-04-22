@@ -9,7 +9,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 ## And now, the emoji you've been waiting for <img src="http://anything.codes/slack-emoji-for-techies/emoji/bicepleft.png" width="20">:woman:<img src="http://anything.codes/slack-emoji-for-techies/emoji/bicepright.png" width="20">
 
 | Name | Emoji |
-|:-----:|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| ------------- | ------------- |
 | adele |  <img src="http://anything.codes/slack-emoji-for-techies/emoji/adele.jpg" width="30"> |
 | adwords | <img src="http://anything.codes/slack-emoji-for-techies/emoji/adwords.png" width="30"> |
 | airhorn | <img src="http://anything.codes/slack-emoji-for-techies/emoji/airhorn.png" width="30"> |
