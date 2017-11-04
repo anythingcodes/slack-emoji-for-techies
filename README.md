@@ -23,6 +23,8 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | apple-logo-classic | <img src="http://anything.codes/slack-emoji-for-techies/emoji/apple-logo-classic.png" width="30"> |
 | atat | <img src="http://anything.codes/slack-emoji-for-techies/emoji/atat.gif" width="30"> |
 | awesome | <img src="http://anything.codes/slack-emoji-for-techies/emoji/awesome.png" width="30"> |
+| awesomecat | <img src="http://anything.codes/slack-emoji-for-techies/emoji/awesomecat.png" width="30"> |
+| awesomedog | <img src="http://anything.codes/slack-emoji-for-techies/emoji/awesomedog.png" width="30"> |
 | awthanks | <img src="http://anything.codes/slack-emoji-for-techies/emoji/awthanks.png" width="30"> |
 | aww | <img src="http://anything.codes/slack-emoji-for-techies/emoji/aww.png" width="30"> |
 | awwyas |  <img src="http://anything.codes/slack-emoji-for-techies/emoji/awwyas.png" width="20"> |
@@ -39,6 +41,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | bigredbutton | <img src="http://anything.codes/slack-emoji-for-techies/emoji/bigredbutton.png" width="30"> |
 | bmo | <img src="http://anything.codes/slack-emoji-for-techies/emoji/bmo.gif" width="30"> |
 | boom-animated | <img src="http://anything.codes/slack-emoji-for-techies/emoji/boom-animated.gif" width="30"> |
+| boston | <img src="http://anything.codes/slack-emoji-for-techies/emoji/boston.png" width="30"> |
 | brb | <img src="http://anything.codes/slack-emoji-for-techies/emoji/brb.png" width="30"> |
 | businesscat | <img src="http://anything.codes/slack-emoji-for-techies/emoji/businesscat.gif" width="30"> |
 | canada | <img src="http://anything.codes/slack-emoji-for-techies/emoji/canada.png" width="30"> |
@@ -61,9 +64,11 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | dancerpickle | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerpickle.gif" width="30"> |
 | dancerpusheen | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerpusheen.gif" width="30"> |
 | dancerrainbow | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerrainbow.gif" width="30"> |
+| dancerrainbowcat | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerrainbowcat.gif" width="30"> |
 | dancershark | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancershark.gif" width="30"> |
 | dancerspiderman | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerspiderman.gif" width="30"> |
 | dancerwookie | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerwookie.gif" width="30"> |
+| delay | <img src="http://anything.codes/slack-emoji-for-techies/emoji/delay.png" width="30"> |
 | devbootcamp | <img src="http://anything.codes/slack-emoji-for-techies/emoji/devbootcamp.png" width="30"> |
 | doge | <img src="http://anything.codes/slack-emoji-for-techies/emoji/doge.png" width="30"> |
 | einstein | <img src="http://anything.codes/slack-emoji-for-techies/emoji/einstein.png" width="30"> |
@@ -118,6 +123,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | mac-finder | <img src="http://anything.codes/slack-emoji-for-techies/emoji/mac-finder.gif" width="30"> |
 | mac-pinwheel | <img src="http://anything.codes/slack-emoji-for-techies/emoji/mac-pinwheel.gif" width="30"> |
 | mario | <img src="http://anything.codes/slack-emoji-for-techies/emoji/mario.png" width="30"> |
+| massachusetts | <img src="http://anything.codes/slack-emoji-for-techies/emoji/massachusetts.png" width="30"> |
 | mbta | <img src="http://anything.codes/slack-emoji-for-techies/emoji/mbta.png" width="30"> |
 | microsoft | <img src="http://anything.codes/slack-emoji-for-techies/emoji/microsoft.png" width="30"> |
 | mindblown | <img src="http://anything.codes/slack-emoji-for-techies/emoji/mindblown.gif" width="30"> |
@@ -160,6 +166,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | rainbow-sheep | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sheep.gif" width="30"> |
 | rainbow-sparkles | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sparkles.gif" width="30"> |
 | reactjs | <img src="http://anything.codes/slack-emoji-for-techies/emoji/reactjs.png" width="30"> |
+| redsox | <img src="http://anything.codes/slack-emoji-for-techies/emoji/redsox.png" width="30"> |
 | responsive | <img src="http://anything.codes/slack-emoji-for-techies/emoji/responsive.png" width="30"> |
 | rockcat | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rockcat.gif" width="30"> |
 | rosie | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rosie.png" width="30"> |
@@ -181,10 +188,13 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | tallyhappy | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tallyhappy.png" width="30"> |
 | tallymeh | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tallymeh.png" width="30"> |
 | tallysad | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tallysad.png" width="30"> |
+| thinking | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thinking.gif" width="30"> |
 | this | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this.png" width="30"> |
 | this2 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this2.png" width="30"> |
+| thuglife | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thuglife.png" width="30"> |
 | toast | <img src="http://anything.codes/slack-emoji-for-techies/emoji/toast.png" width="30"> |
 | tux | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" width="30"> |
+| twinpeaks | <img src="http://anything.codes/slack-emoji-for-techies/emoji/twinpeaks.jpg" width="30"> |
 | twitter | <img src="http://anything.codes/slack-emoji-for-techies/emoji/twitter.png" width="30"> |
 | ubuntu | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ubuntu.gif" width="30"> |
 | unacceptable | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unacceptable.png" width="30"> |
