@@ -191,6 +191,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | thinking | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thinking.gif" width="30"> |
 | this | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this.png" width="30"> |
 | this2 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this2.png" width="30"> |
+| this3 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this3.png" width="30"> |
 | thuglife | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thuglife.png" width="30"> |
 | toast | <img src="http://anything.codes/slack-emoji-for-techies/emoji/toast.png" width="30"> |
 | tux | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" width="30"> |
