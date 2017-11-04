@@ -201,6 +201,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | ubuntu | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ubuntu.gif" width="30"> |
 | unacceptable | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unacceptable.png" width="30"> |
 | unity | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unity.jpeg" width="30"> |
+| vscode | <img src="http://anything.codes/slack-emoji-for-techies/emoji/vscode.png" width="30"> |
 | what | <img src="http://anything.codes/slack-emoji-for-techies/emoji/what.png" width="30"> |
 | wifi | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wifi.png" width="30"> |
 | windows | <img src="http://anything.codes/slack-emoji-for-techies/emoji/windows.png" width="30"> |
