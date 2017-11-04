@@ -188,6 +188,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | tallyhappy | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tallyhappy.png" width="30"> |
 | tallymeh | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tallymeh.png" width="30"> |
 | tallysad | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tallysad.png" width="30"> |
+| tech-ladies | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tech-ladies.jpg" width="30"> |
 | thinking | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thinking.gif" width="30"> |
 | this | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this.png" width="30"> |
 | this2 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/this2.png" width="30"> |
