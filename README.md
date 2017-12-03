@@ -30,6 +30,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | awwyas |  <img src="http://anything.codes/slack-emoji-for-techies/emoji/awwyas.png" width="20"> |
 | awyeah | <img src="http://anything.codes/slack-emoji-for-techies/emoji/awyeah.gif" width="30"> |
 | bacon | <img src="http://anything.codes/slack-emoji-for-techies/emoji/bacon.jpg" width="30"> |
+| batman-disco | <img src="http://anything.codes/slack-emoji-for-techies/emoji/batman-disco.gif" width="30"> |
 | bb8 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/bb8.png" width="30"> |
 | bbq | <img src="http://anything.codes/slack-emoji-for-techies/emoji/bbq.png" width="30"> |
 | bee-animated | <img src="http://anything.codes/slack-emoji-for-techies/emoji/bee-animated.gif" width="30"> |
@@ -76,8 +77,6 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | eyeroll | <img src="http://anything.codes/slack-emoji-for-techies/emoji/eyeroll.gif" width="30"> |
 | facebook | <img src="http://anything.codes/slack-emoji-for-techies/emoji/facebook.png" width="30"> |
 | facepalm | <img src="http://anything.codes/slack-emoji-for-techies/emoji/facepalm.png" width="30"> |
-| feelsbadman | <img src="http://anything.codes/slack-emoji-for-techies/emoji/feelsbadman.png" width="30"> |
-| feelsgoodman | <img src="http://anything.codes/slack-emoji-for-techies/emoji/feelsgoodman.png" width="30"> |
 | fingerscrossed | <img src="http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed.png" width="30"> |
 | fingerscrossed-skin-tone-2 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-2.png" width="30"> |
 | fingerscrossed-skin-tone-3 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-3.png" width="30"> |
@@ -166,6 +165,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | rainbow-sheep | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sheep.gif" width="30"> |
 | rainbow-sparkles | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sparkles.gif" width="30"> |
 | reactjs | <img src="http://anything.codes/slack-emoji-for-techies/emoji/reactjs.png" width="30"> |
+| really-makes-you-think | <img src="http://anything.codes/slack-emoji-for-techies/emoji/really-makes-you-think.gif" width="30"> |
 | redsox | <img src="http://anything.codes/slack-emoji-for-techies/emoji/redsox.png" width="30"> |
 | responsive | <img src="http://anything.codes/slack-emoji-for-techies/emoji/responsive.png" width="30"> |
 | rockcat | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rockcat.gif" width="30"> |
