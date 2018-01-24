@@ -214,5 +214,6 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | yas-girl | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yas-girl.png" width="30"> |
 | yay | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yay.gif" width="30"> |
 | yes | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yes.jpg" width="30"> |
+| yo | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yo.gif" width="30"> |
 | yodawg | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yodawg.png" width="30"> |
 | yoga | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yoga.gif" width="30"> |
