@@ -49,6 +49,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | canada                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/canada.png" width="30">                     |
 | challengeaccepted          | <img src="http://anything.codes/slack-emoji-for-techies/emoji/challengeaccepted.png" width="30">          |
 | chrome                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/chrome.png" width="30">                     |
+| clever                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/clever.png" width="30">                     |
 | click                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/click.png" width="30">                      |
 | corgis                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/corgis.png" width="30">                     |
 | css3                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/css3.png" width="30">                       |
@@ -134,6 +135,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | nexus                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nexus.png" width="30">                      |
 | nice                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nice.png" width="30">                       |
 | no                         | <img src="http://anything.codes/slack-emoji-for-techies/emoji/no.jpg" width="30">                         |
+| nod                        | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nod.gif" width="30">                        |
 | nodejs                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nodejs.png" width="30">                     |
 | nyancat                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nyancat.gif" width="30">                    |
 | ohyeah                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ohyeah.jpg" width="30">                     |
@@ -214,12 +216,20 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | unacceptable               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unacceptable.png" width="30">               |
 | unity                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unity.jpeg" width="30">                     |
 | vscode                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/vscode.png" width="30">                     |
+| waiting                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/waiting.gif" width="30">                    |
+| webpack                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/webpack.gif" width="30">                    |
+| webstorm                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/webstorm.png" width="30">                   |
+| wfh                        | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wfh.png" width="30">                        |
+| wfh-animated               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wfh-animated.gif" width="30">               |
 | what                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/what.png" width="30">                       |
+| whatsapp                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/whatsapp.png" width="30">                   |
 | wifi                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wifi.png" width="30">                       |
 | windows                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/windows.png" width="30">                    |
 | wireframe                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wireframe.png" width="30">                  |
 | wonderwoman                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wonderwoman.png" width="30">                |
 | wonderwoman2               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wonderwoman2.jpg" width="30">               |
+| wow                        | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wow.gif" width="30">                        |
+| wtf                        | <img src="http://anything.codes/slack-emoji-for-techies/emoji/wtf.gif" width="30">                        |
 | xbox                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/xbox.png" width="30">                       |
 | xcode                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/xcode.png" width="30">                      |
 | yas                        | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yas.png" width="30">                        |
@@ -229,3 +239,4 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | yo                         | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yo.gif" width="30">                         |
 | yodawg                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yodawg.png" width="30">                     |
 | yoga                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/yoga.gif" width="30">                       |
+| zoom                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/zoom.png" width="30">                       |
