@@ -49,6 +49,9 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | canada                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/canada.png" width="30">                     |
 | challengeaccepted          | <img src="http://anything.codes/slack-emoji-for-techies/emoji/challengeaccepted.png" width="30">          |
 | chrome                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/chrome.png" width="30">                     |
+| chrome-dino                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/chrome-dino.png" width="30">                |
+| chrome-dino-blue           | <img src="http://anything.codes/slack-emoji-for-techies/emoji/chrome-dino-blue.gif" width="30">           |
+| chrome-dino-red            | <img src="http://anything.codes/slack-emoji-for-techies/emoji/chrome-dino-red.gif" width="30">            |
 | clever                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/clever.png" width="30">                     |
 | click                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/click.png" width="30">                      |
 | corgis                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/corgis.png" width="30">                     |
