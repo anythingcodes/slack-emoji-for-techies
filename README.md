@@ -101,6 +101,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | devbootcamp                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/devbootcamp.png" width="30">                |
 | doge                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/doge.png" width="30">                       |
 | dope                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dope.png" width="30">                       |
+| downvote                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/downvote.png" width="30">                       |
 | dune                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dune.png" width="30">                       |
 | einstein                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/einstein.png" width="30">                   |
 | ermahgerd                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ermahgerd.png" width="30">                  |
@@ -279,6 +280,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | unacceptable               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unacceptable.png" width="30">               |
 | unicorn                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unicorn.png" width="30">                     |
 | unity                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unity.jpeg" width="30">                     |
+| upvote                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/upvote.png" width="30">                     |
 | vscode                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/vscode.png" width="30">                     |
 | waiting                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/waiting.gif" width="30">                    |
 | webpack                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/webpack.gif" width="30">                    |
