@@ -96,6 +96,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | dancerwookie               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerwookie.gif" width="30">               |
 | dancing-bean               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancing-bean.gif" width="30">               |
 | dancing-bean-intensifies               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancing-bean-intensifies.gif" width="30">               |
+| danke               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/danke.png" width="30">               |
 | deal-with-it                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/deal-with-it.gif" width="30">                      |
 | delay                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/delay.png" width="30">                      |
 | devbootcamp                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/devbootcamp.png" width="30">                |
@@ -257,6 +258,8 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | tech-ladies                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/tech-ladies.jpg" width="30">                |
 | ternary                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ternary.png" width="30">                    |
 | thankful-bean                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thankful-bean.png" width="30">                   |
+| thanksdad                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thanksdad.jpg" width="30">                   |
+| thankyou                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thankyou.gif" width="30">                   |
 | thinking                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thinking.gif" width="30">                   |
 | thonking                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thonking.png" width="30">                   |
 | thonking-cube              | <img src="http://anything.codes/slack-emoji-for-techies/emoji/thonking-cube.gif" width="30">              |
@@ -276,6 +279,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | two-cents                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/two-cents.png" width="30">                  |
 | twinpeaks                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/twinpeaks.jpg" width="30">                  |
 | twitter                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/twitter.png" width="30">                    |
+| ty                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ty.gif" width="30">                    |
 | ubuntu                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ubuntu.gif" width="30">                     |
 | unacceptable               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unacceptable.png" width="30">               |
 | unicorn                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/unicorn.png" width="30">                     |
