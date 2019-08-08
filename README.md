@@ -191,7 +191,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | partyparrotreverseconga    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/partyparrotreverseconga.gif" width="30">    |
 | partyparrotslow            | <img src="http://anything.codes/slack-emoji-for-techies/emoji/partyparrotslow.gif" width="30">            |
 | partywizard                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/partywizard.gif" width="30">                |
-| pen-tool                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/pen-tool.pnng" width="30">                |
+| pen-tool                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/pen-tool.png" width="30">                |
 | philosoraptor              | <img src="http://anything.codes/slack-emoji-for-techies/emoji/philosoraptor.png" width="30">              |
 | pigasus              | <img src="http://anything.codes/slack-emoji-for-techies/emoji/pigasus.jpg" width="30">              |
 | pita              | <img src="http://anything.codes/slack-emoji-for-techies/emoji/pita.png" width="30">              |
