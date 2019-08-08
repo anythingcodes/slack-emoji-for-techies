@@ -180,6 +180,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | most-unacceptable           | <img src="http://anything.codes/slack-emoji-for-techies/emoji/most-unacceptable.png" width="30">                  |
 | moustache                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/moustache.png" width="30">                  |
 | muffin                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/muffin.png" width="30">                     |
+| nailcare-intensifies                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nailcare-intensifies.gif" width="30">                    |
 | narwhal                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/narwhal.jpg" width="30">                    |
 | nexus                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nexus.png" width="30">                      |
 | nice                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/nice.png" width="30">                       |
