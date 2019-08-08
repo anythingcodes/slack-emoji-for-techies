@@ -94,7 +94,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | dancershark                | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancershark.gif" width="30">                |
 | dancerspiderman            | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerspiderman.gif" width="30">            |
 | dancerwookie               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancerwookie.gif" width="30">               |
-| dancing-bean               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancing-bean.gif" width="30">               |
+| dancing-bean               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancing-bean.png" width="30">               |
 | dancing-bean-intensifies               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dancing-bean-intensifies.gif" width="30">               |
 | danke               | <img src="http://anything.codes/slack-emoji-for-techies/emoji/danke.png" width="30">               |
 | deal-with-it                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/deal-with-it.gif" width="30">                      |
