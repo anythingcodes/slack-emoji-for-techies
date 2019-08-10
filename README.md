@@ -239,7 +239,6 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | salesforce                 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/salesforce.png" width="30">                 |
 | science                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/science.gif" width="30">                    |
 | shark                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/shark.png" width="30">                      |
-| shrug                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/shrug.png" width="30">                      |
 | shrugs                      | <img src="http://anything.codes/slack-emoji-for-techies/emoji/shrugs.gif" width="30">                      |
 | sketch                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/sketch.png" width="30">                     |
 | slap                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/slap.gif" width="30">                     |
