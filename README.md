@@ -28,7 +28,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | amazon                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/amazon.png" width="30">                     |
 | american-ninja-warrior         | <img src="http://anything.codes/slack-emoji-for-techies/emoji/american-ninja-warrior.png" width="30">                     |
 | android                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/android.png" width="30">                    |
-| angry-frog                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/angryfrog.gif" width="30">                  |
+| angry-frog                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/angry-frog.gif" width="30">                  |
 | angryeyes                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/angryeyes.png" width="30">                  |
 | angularjs                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/angularjs.png" width="30">                  |
 | apple-logo                 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/apple-logo.png" width="30">                 |
