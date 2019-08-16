@@ -105,7 +105,7 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | doge                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/doge.png" width="30">                       |
 | dope                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dope.png" width="30">                       |
 | downvote                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/downvote.png" width="30">                       |
-| dune                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dune.png" width="30">                       |
+| dune                       | <img src="http://anything.codes/slack-emoji-for-techies/emoji/dune.jpg" width="30">                       |
 | einstein                   | <img src="http://anything.codes/slack-emoji-for-techies/emoji/einstein.png" width="30">                   |
 | ermahgerd                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ermahgerd.png" width="30">                  |
 | ermahgerd-slide                  | <img src="http://anything.codes/slack-emoji-for-techies/emoji/ermahgerd-slide.gif" width="30">                  |
