@@ -231,6 +231,8 @@ Using Chrome? Try the [Slack Emoji Tools extension](https://chrome.google.com/we
 | rainbow-sheep              | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sheep.gif" width="30">              |
 | rainbow-sparkles           | <img src="http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sparkles.gif" width="30">           |
 | reactjs                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/reactjs.png" width="30">                    |
+| read-my-mind                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/read-my-mind.gif" width="30">                    |
+| reading-face                    | <img src="http://anything.codes/slack-emoji-for-techies/emoji/reading-face.png" width="30">                    |
 | really-makes-you-think     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/really-makes-you-think.gif" width="30">     |
 | redsox                     | <img src="http://anything.codes/slack-emoji-for-techies/emoji/redsox.png" width="30">                     |
 | responsive                 | <img src="http://anything.codes/slack-emoji-for-techies/emoji/responsive.png" width="30">                 |
